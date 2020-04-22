@@ -1,5 +1,5 @@
 # Image-Steganography
-This is an app to implement steganography technique in c++ by using LSB*(least significant bit)*
+This is an app to implement steganography technique in c++ by using LSB(least significant bit)
 Steganography is the practice of communicating using hidden messages. 
 The basic structure of Steganography is made up of three components: the carrier, the message, and the key. 
 The carrier can be a text, a digital image, or media files.
