@@ -4,7 +4,7 @@ Image Steganography is a CLI application to implement steganography technique in
 # Usage
 
 ```bash
-g++ -o <name-you-want-to-give> main_prog.cpp
+g++ -o <name-you-want-to-give> mainprog.cpp
 ```
             
 # Contributing
