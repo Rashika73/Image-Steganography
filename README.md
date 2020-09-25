@@ -26,6 +26,3 @@ I found the concept behind Image Steganography intriguing. We often use social n
 ```bash
 g++ -o <name-you-want-to-give> mainprog.cpp
 ```
-            
-# Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
